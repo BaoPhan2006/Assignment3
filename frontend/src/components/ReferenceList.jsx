@@ -1,5 +1,3 @@
-import React from "react";
-
 function ReferenceList({ references, onEdit, onDelete }) {
   if (references.length === 0) return <p>No references found.</p>;
 

@@ -1,5 +1,3 @@
-import React from "react";
-
 function ProjectList({ projects, onEdit, onDelete }) {
   if (projects.length === 0) return <p>No projects found.</p>;
 

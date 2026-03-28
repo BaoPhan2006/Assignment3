@@ -1,5 +1,3 @@
-import React from "react";
-
 function ServiceList({ services, onEdit, onDelete }) {
   if (services.length === 0) return <p>No services found.</p>;
 

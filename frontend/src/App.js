@@ -5,7 +5,6 @@ import UsersPage from "./pages/UsersPage";
 import ProjectsPage from "./pages/ProjectsPage";
 import ServicesPage from "./pages/ServicesPage";
 import ReferencesPage from "./pages/ReferencesPage";
-import "./App.css";
 
 function App() {
   return (
