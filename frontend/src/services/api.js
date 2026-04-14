@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:5000/api"
+  baseURL: "https://assignment3-v73m.onrender.com/api"
 });
 
 export default API;
